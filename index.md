@@ -17,3 +17,5 @@ Faré servir Laravel, i per la part de base de dades SQL.
 ### FRONT-END
 
 Utilitzaré HTML, CSS, JavaScript, Angular i Boostrap.
+
+<img src="https://ibb.co/1GM377T">
