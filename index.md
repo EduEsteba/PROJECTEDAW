@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## IDEA PROJECTE FINAL
 
-You can use the [editor on GitHub](https://github.com/EduEsteba/projectedaw/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Com que aquest any no s'ha pogut celebrar Sant Jordi, m'he proposat crear una botiga online de llibres. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### USUARIS
 
-### Markdown
+- Usuari normal: Podra registrarse, comprar llibres, fer un comentari, puntuarlo...
+- Usuari moderador: Pot fer tot el que pot fer un usuari normal i a més afegir o treure nous llibres, crear categories...
+- suari administrador: Tindra tots els permisos de la web, podra eliminar usuaris i editar parts de la web.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### BACK-END
 
-```markdown
-Syntax highlighted code block
+Faré servir Laravel, i per la part de base de dades SQL.
 
-# Header 1
-## Header 2
-### Header 3
+### FRONT-END
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EduEsteba/projectedaw/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Utilitzaré HTML, CSS, JavaScript, Angular i Boostrap.
