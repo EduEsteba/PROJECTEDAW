@@ -18,4 +18,4 @@ Faré servir Laravel, i per la part de base de dades SQL.
 
 Utilitzaré HTML, CSS, JavaScript, Angular i Boostrap.
 
-<img src="https://ibb.co/1GM377T">
+<a href="https://ibb.co/1GM377T"><img src="https://i.ibb.co/8gbJNN9/logo-cendrabook.png" alt="logo-cendrabook" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>albums 19 and 21</a><br />
